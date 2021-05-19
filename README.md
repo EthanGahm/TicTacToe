@@ -1,3 +1,8 @@
+The code is this repository was produced by following a basic React.js tutorial found at this URL: https://reactjs.org/tutorial/tutorial.html. Over time, I may build this out a bit more to get more practice with react and with Git. 
+
+Below this line is text that was included in the README file of the template code that was provided in the tutorial
+_________________________________________________________________________________________________
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
